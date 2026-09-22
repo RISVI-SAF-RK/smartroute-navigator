@@ -2,7 +2,7 @@
   <div class="container">
     <div class="brand">SmartRoute Navigator</div>
     <p>Web-Based Public Transport Navigation and One-Day Travel Guide · Mihintale Area</p>
-    <p>© 2026 SmartRoute Navigator · University of Moratuwa · E2320293</p>
+    <p>© 2026 SmartRoute Navigator · Developer by MRM Riskan</p>
   </div>
 </footer>
 
